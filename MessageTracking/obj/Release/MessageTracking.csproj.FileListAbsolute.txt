@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2015\Projects\MessageTracking\MessageTracking\bin\Release\MessageTracking.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MessageTracking\MessageTracking\bin\Release\MessageTracking.exe
+c:\users\admin\documents\visual studio 2015\Projects\MessageTracking\MessageTracking\bin\Release\MessageTracking.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MessageTracking\MessageTracking\bin\Release\System.Management.Automation.dll
+c:\users\admin\documents\visual studio 2015\Projects\MessageTracking\MessageTracking\obj\Release\MessageTracking.FormMain.resources
+c:\users\admin\documents\visual studio 2015\Projects\MessageTracking\MessageTracking\obj\Release\MessageTracking.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\MessageTracking\MessageTracking\obj\Release\MessageTracking.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\MessageTracking\MessageTracking\obj\Release\MessageTracking.exe
+c:\users\admin\documents\visual studio 2015\Projects\MessageTracking\MessageTracking\obj\Release\MessageTracking.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MessageTracking\MessageTracking\obj\Release\MessageTracking.csprojResolveAssemblyReference.cache
